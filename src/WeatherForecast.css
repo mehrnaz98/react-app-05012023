@@ -34,3 +34,8 @@
   margin-left: 2px;
   opacity: 0.6;
 }
+
+.WeatherForecast .forecast-temperature-max {
+  position: relative;
+  left: -3px;
+}
